@@ -34,6 +34,8 @@ Certifique-se de ter os seguintes requisitos instalados em seu ambiente de desen
 
 7. Para gerar um relatório das agendas de tarefas, clique no link "Gerar Relatório" na página inicial. O relatório será baixado automaticamente em formato PDF.
 
+8. Caso esteja usando docker,bastar rodar um docker-compose up -d para ter acesso ao banco.
+
 ## Contribuição
 
 Este projeto está aberto a contribuições. Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
